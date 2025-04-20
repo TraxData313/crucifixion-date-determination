@@ -44,18 +44,20 @@ The included Python script uses Skyfield to identify the full moon closest to Ni
 
 Result:
 --------
- Year AD Full Moon (Nisan 14?)   Weekday
-      26   0026-04-19 00:00:00    Sunday
-      27   0027-04-08 00:00:00  Thursday
-      28   0028-03-27 00:00:00    Monday
-      29   0029-04-15 00:00:00    Sunday
-      30   0030-04-05 00:00:00    Friday
-      31   0031-04-24 00:00:00  Thursday
-      32   0032-04-12 00:00:00    Monday
-      33   0033-04-02 00:00:00  Saturday
-      34   0034-03-22 00:00:00 Wednesday ✅
-      35   0035-04-09 00:00:00    Monday
-      36   0036-04-27 00:00:00    Sunday
+| Year AD | Full Moon (Nisan 14?) | Weekday   |
+|--------:|------------------------|-----------|
+|      26 | 0026-04-19 00:00:00    | Sunday    |
+|      27 | 0027-04-08 00:00:00    | Thursday  |
+|      28 | 0028-03-27 00:00:00    | Monday    |
+|      29 | 0029-04-15 00:00:00    | Sunday    |
+|      30 | 0030-04-05 00:00:00    | Friday    |
+|      31 | 0031-04-24 00:00:00    | Thursday  |
+|      32 | 0032-04-12 00:00:00    | Monday    |
+|      33 | 0033-04-02 00:00:00    | Saturday  |
+|  **34** | **0034-03-22 00:00:00**| **Wednesday ✅** |
+|      35 | 0035-04-09 00:00:00    | Monday    |
+|      36 | 0036-04-27 00:00:00    | Sunday    |
+
 
 ✔️ AD 34 shows a full moon (Passover) falling on a Wednesday, making it the most scripturally accurate year for the crucifixion of Jesus Christ.
 
