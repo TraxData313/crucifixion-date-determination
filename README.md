@@ -64,7 +64,7 @@ Result:
 🛠 How to Run
 -------------
 
-1. Download the `de431_part-2.bsp` planetary ephemeris file from NASA JPL.
+1. Download the `de431_part-2.bsp` planetary ephemeris file from [NASA JPL](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/).
 2. Install Python dependencies:
    pip install skyfield pandas
 3. Update the path in the script:
