@@ -6,36 +6,9 @@ This project seeks to biblically and astronomically verify the year of Jesus Chr
 📖 Biblical Foundations
 -----------------------
 
-1. High Sabbath Explained
+1. [Why the Crucifixion Was on Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)
 
-    “The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day)...”
-    — John 19:31 (KJV)
-
-    - The High Sabbath (John 19:31) refers to Nisan 15, the first day of the Feast of Unleavened Bread.
-    - Both the **weekly Sabbath** and the **High Sabbath** are called **holy convocations** and **days of rest**:
-        - “Six days shall work be done: but the seventh day is the sabbath of rest, **an holy convocation**; **ye shall do no work therein**: it is the sabbath of the LORD in all your dwellings.” — Leviticus 23:3 (KJV)
-    - It is explicitly called a **holy convocation** and a day of **rest**:
-        - “And on the fifteenth day of the same month is the feast of unleavened bread unto the LORD: seven days ye must eat unleavened bread. In the first day ye shall have **an holy convocation**: **ye shall do no servile work therein**.” — Leviticus 23:6–7 (KJV)
-        - “In the fourteenth day of the first month at even is the LORD's passover. And on the fifteenth day... **ye shall do no manner of servile work therein**.” — Numbers 28:16–18 (KJV)
-    - This High Sabbath is distinct from the weekly Sabbath (Saturday). Every 15th of Nisan is a Sabbath regardless of the day of the week.
-
-2. The Crucifixion Timing
-
-    - Jesus was crucified on Passover, the 14th of Nisan, which was a Wednesday that year.
-    - The next day (Thursday, 15th of Nisan) was the High Sabbath.
-    - The women couldn’t go to the tomb that day (Luke 23:56), then rested again on the weekly Sabbath (Saturday).
-    - They **prepared spices and ointments** between the two Sabbaths (Luke 23:56), which is **only possible if Friday was a work day** — impossible under the traditional Friday crucifixion model.
-
-3. Three Days and Three Nights — Literally
-
-    “For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth.”
-    — Matthew 12:40 (KJV)
-
-    - Wednesday sunset to Saturday sunset = literal 3 days and 3 nights:
-      - Wed night, Thu day, Thu night, Fri day, Fri night, Sat day.
-    - Christ rose after the Sabbath, before dawn Sunday (Matthew 28:1–6, John 20:1).
-
-4. Why Search for the Full Moon?
+2. Why the Crucifixion was on a Full Moon?
 
     - The **Passover** is commanded to occur on **the 14th day of the first month at even** (Leviticus 23:5).
     - The first biblical month (Nisan/Abib) is **lunar** and begins with the new moon (Exodus 12:2, Psalm 81:3).
