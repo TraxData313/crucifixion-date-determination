@@ -1,4 +1,4 @@
-Crucifixion Date Script — Finding the Biblical Wednesday Passover
+Dating the Crucifixion to Wednesday Passover in 34 AD (0034-03-22)
 ==================================================================
 
 This project seeks to biblically and astronomically verify the year of Jesus Christ’s crucifixion, affirming what the Scriptures clearly teach: that Christ was crucified on a Wednesday, on Passover (14th of Nisan), and that the following day, the High Sabbath (15th of Nisan), was a Holy Convocation — not the weekly Saturday Sabbath, but still a required day of rest.
