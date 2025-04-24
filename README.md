@@ -3,71 +3,66 @@ Crucifixion Date Script — Finding the Biblical Wednesday Passover
 
 This project seeks to biblically and astronomically verify the year of Jesus Christ’s crucifixion, affirming what the Scriptures clearly teach: that Christ was crucified on a Wednesday, on Passover (14th of Nisan), and that the following day, the High Sabbath (15th of Nisan), was a Holy Convocation — not the weekly Saturday Sabbath, but still a required day of rest.
 
-📖 Biblical Foundations
+📜 Search Conditions
 -----------------------
 
-1. [Why the Crucifixion Was on Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)
+1. Wednesday, because [the Crucifixion Was on a Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)
 
-2. Why the Crucifixion was on a Full Moon?
+2. 14 days from the New moon between 8 March – 5 April:
+    - Crucifixion was on a **Passover** (John 19:14)
+    - The Passover is commanded to occur on **the 14th day of the first month at even** (Leviticus 23:5)
+    - The first biblical month (Nisan/Abib) is lunar and begins with the **new moon** (Exodus 12:2, Psalm 81:3).
+    - Nisan occured just before the Exodus from Egypt, **when "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."** (Exodus 9:31)
+    - the barley is in the ear, and the flax is bolled" near Jerusalem **between 08.March – 05.April** ([relevant study proving that](https://jbqnew.jewishbible.org/jbq-past-issues/2017/453/modern-searches-aviv-barley-context-hebrew-calendar/?utm_source=chatgpt.com))
 
-    - The **Passover** is commanded to occur on **the 14th day of the first month at even** (Leviticus 23:5).
-    - The first biblical month (Nisan/Abib) is **lunar** and begins with the new moon (Exodus 12:2, Psalm 81:3).
-    - Therefore, the **14th of Nisan always falls on a full moon**, because 14 days after a new moon is a full moon.
-    - This is why our search for the date of the crucifixion is tied to identifying full moons.
+3. **If no new moon** appears in that range, count **14 days from the next new moon** (i.e. intercalated month)
+    - If barley was not ripe, a 13th month (Adar II) was added. This was required to align the Passover with the firstfruits harvest (Leviticus 23:10-14).
 
-🧮 Why Search AD 26–36?
------------------------
+4. AD 26–36
+   - Jesus began His ministry at “about 30” (Luke 3:23).
+   - John the Baptist’s ministry began in the 15th year of Tiberius Caesar (Luke 3:1) → AD 29.
+   - His ministry lasted around 3.5 years, so the crucifixion likely occurred between AD 30–34.
+   - We search for a full moon (Passover) that fell on a Wednesday within this range.
 
-- Jesus began His ministry at “about 30” (Luke 3:23).
-- John the Baptist’s ministry began in the 15th year of Tiberius Caesar (Luke 3:1) → AD 29.
-- His ministry lasted around 3.5 years, so the crucifixion likely occurred between AD 30–34.
-- We search for a full moon (Passover) that fell on a Wednesday within this range.
 
-📜 Script Output
+🛠 Search Execution Script
 ----------------
+The script cru_years_astro_new_moon.py performs the search by the set conditions.
 
-The included Python script uses Skyfield to identify the full moon closest to Nisan 14 in each year from AD 26 to 36.
+### Script Execution Output: 
+Nisan & Passover Dates from AD 26–36:
 
-Result:
---------
-| Year AD | Full Moon (Nisan 14?) | Weekday   |
-|--------:|------------------------|-----------|
-|      26 | 0026-04-19    | Sunday    |
-|      27 | 0027-04-08    | Thursday  |
-|      28 | 0028-03-27    | Monday    |
-|      29 | 0029-04-15    | Sunday    |
-|      30 | 0030-04-05    | Friday    |
-|      31 | 0031-04-24    | Thursday  |
-|      32 | 0032-04-12    | Monday    |
-|      33 | 0033-04-02    | Saturday  |
-|  **34** | **0034-03-22**| **Wednesday ✅** |
-|      35 | 0035-04-09    | Monday    |
-|      36 | 0036-04-27    | Sunday    |
+| Year AD | Added 13th Month? | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
+|---------|--------------------|------------------------|--------------------------|---------------------|
+| 26      | No                 | 0026-04-04    | 0026-04-18      | Saturday            |
+| 27      | No                 | 0027-03-25    | 0027-04-08      | Thursday            |
+| 28      | No                 | 0028-03-13    | 0028-03-27      | Monday              |
+| 29      | No                 | 0029-04-01    | 0029-04-15      | Sunday              |
+| 30      | No                 | 0030-03-21    | 0030-04-04      | Thursday            |
+| 31      | No                 | 0031-03-10    | 0031-03-24      | Monday              |
+| 32      | No                 | 0032-03-28    | 0032-04-11      | Sunday              |
+| 33      | No                 | 0033-03-18    | 0033-04-01      | Friday              |
+| 34      | No                 | 0034-03-08    | 0034-03-22      | Wednesday ✅        |
+| 35      | No                 | 0035-03-26    | 0035-04-09      | Monday              |
+| 36      | No                 | 0036-03-15    | 0036-03-29      | Saturday            |
 
-✔️ AD 34 shows a full moon (Passover) falling on a Wednesday, making it the most scripturally accurate year for the crucifixion of Jesus Christ.
+---
+
+
 
 📚 External Confirmation
 ------------------------
 
-These findings align with the detailed historical-astronomical data from peer-reviewed research. See:
-**"The date of Nisan 14 in Jerusalem AD 26–36"**  
-https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769
+- Passover in 34 AD is also confirmed by these historical-astronomical data from peer-reviewed research [The date of Nisan 14 in Jerusalem AD 26–36](https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769), even though they were looking for a Friday
+- The simpler, but less accurate script cru_years_astr_full_moon.py also confirms the Full Moon was on a Wednesday in 34 AD, and the Passover is on a new moon (Full Moon is ~14 days from a New Moon)
 
-🛠 How to Run
--------------
-
-1. Download the `de431_part-2.bsp` planetary ephemeris file from [NASA JPL](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/).
-2. Install Python dependencies:
-   pip install skyfield pandas
-3. Update the path in the script:
-   eph = load('C:/Path/To/de431_part-2.bsp')
-4. Run the script:
-   python crucifixion_date.py
 
 🙌 Conclusion
 -------------
 
-This project harmonizes Scripture and astronomy to affirm the literal three days and three nights death, burial, and resurrection of our Lord and Saviour Jesus Christ — without compromise.
+Based on the biblical calendar, barley ripening data, and astronomical new moon calculations, the only year from AD 26–36 in which Passover (14 Nisan) fell on a Wednesday, matching the Gospel chronology and scriptural requirements, is **AD 34**.
 
-“Sanctify them through thy truth: thy word is truth.”
-— John 17:17 (KJV)
+
+📖 License
+-------------
+All content in this repository is completely free to use, share, and cite — no license or permission required.
