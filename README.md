@@ -1,7 +1,7 @@
 Dating the Crucifixion to Wednesday Passover in 34 AD (0034-03-22)
 ==================================================================
 
-This project seeks to biblically and astronomically verify the year of Jesus Christ’s crucifixion, affirming what the Scriptures clearly teach: that Christ was crucified on a Wednesday, on Passover (14th of Nisan), and that the following day, the High Sabbath (15th of Nisan), was a Holy Convocation — not the weekly Saturday Sabbath, but still a required day of rest.
+This project seeks to biblically and astronomically verify the year of Jesus Christ’s crucifixion, based on what the Bible teaches about that day.
 
 📜 Search Conditions
 -----------------------
@@ -27,7 +27,7 @@ This project seeks to biblically and astronomically verify the year of Jesus Chr
 
 🛠 Search Execution Script
 ----------------
-The script cru_years_astro_new_moon.py performs the search by the set conditions.
+The script cru_years_astro_new_moon.py performs the search by the set conditions - checks the weekday on the Passovers from 26 to 36 AD, looking for the Wednesday Passover
 
 ### Script Execution Output: 
 Nisan & Passover Dates from AD 26–36:
@@ -50,16 +50,14 @@ Nisan & Passover Dates from AD 26–36:
 
 
 
-📚 External Confirmation
+📚 Further Confirmations
 ------------------------
-
-- Passover in 34 AD is also confirmed by these historical-astronomical data from peer-reviewed research [The date of Nisan 14 in Jerusalem AD 26–36](https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769), even though they were looking for a Friday
-- The simpler, but less accurate script cru_years_astr_full_moon.py also confirms the Full Moon was on a Wednesday in 34 AD, and the Passover is on a new moon (Full Moon is ~14 days from a New Moon)
+- Passover in 34 AD on a Wednesday is also confirmed by these historical-astronomical data from peer-reviewed research [The date of Nisan 14 in Jerusalem AD 26–36](https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769), even though they were looking for a Friday
+- The simpler, but less accurate script cru_years_astr_full_moon.py also confirms the Full Moon was on a Wednesday in 34 AD, and the Passover is on a Full Moon (Full Moon is ~14 days from the New Moon), further confirming that the Moon was fully lid that day
 
 
 🙌 Conclusion
 -------------
-
 Based on the biblical calendar, barley ripening data, and astronomical new moon calculations, the only year from AD 26–36 in which Passover (14 Nisan) fell on a Wednesday, matching the Gospel chronology and scriptural requirements, is **AD 34**.
 
 
