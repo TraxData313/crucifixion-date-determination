@@ -1,7 +1,7 @@
-Dating the Crucifixion to Wednesday Passover in 34 AD (0034-03-22)
+Dating the Crucifixion to Wednesday Passover in 34 AD
 ==================================================================
 
-This project seeks to biblically and astronomically verify the year of Jesus Christ’s crucifixion, based on what the Bible teaches about that day.
+This project biblically and astronomically pinpoints the year of Jesus Christ’s crucifixion to the Full Mooned Wednesday Passover in 34 AD (0034-03-22)
 
 📜 Search Conditions
 -----------------------
