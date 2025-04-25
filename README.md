@@ -19,10 +19,9 @@ Search Conditions
     - If barley was not ripe, a 13th month (Adar II) was added. This was required to align the Passover with the firstfruits harvest (Leviticus 23:10-14).
 
 4. AD 26–36
-   - Jesus began His ministry at “about 30” (Luke 3:23).
-   - John the Baptist’s ministry began in the 15th year of Tiberius Caesar (Luke 3:1) → AD 29.
-   - His ministry lasted around 3.5 years, so the crucifixion likely occurred between AD 30–34.
-   - We search for a full moon (Passover) that fell on a Wednesday within this range.
+    - Jesus was crucified during **Pontius Pilate** (Matthew 27:2, Mark 15:15 and many others)
+    - Pontius Pilate was Roman governor of Judea **from AD 26 to 36** ([Pontius Pilate Wikipedia](https://en.wikipedia.org/wiki/Pontius_Pilate#:~:text=Pontius%20Pilate%20%28Latin%3A%20Pontius%20Pilatus%2Cand%20ultimately%20ordered%20his%20crucifixion.))
+
 
 
 Search Execution and Results
