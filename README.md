@@ -6,31 +6,30 @@ This project biblically and astronomically pinpoints the year of Jesus Christ’
 Search Conditions
 -----------------------
 
-1. Wednesday, because [the Crucifixion Was on a Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)
+1. **Wednesday** (*[the Crucifixion Was on a Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)*)
 
-2. 14 days from the New moon between 8 March – 5 April:
-    - Crucifixion was on a **Passover** (John 19:14)
-    - The Passover is commanded to occur on **the 14th day of the first month at even** (Leviticus 23:5)
-    - The first biblical month (Nisan/Abib) is lunar and begins with the **new moon** (Exodus 12:2, Psalm 81:3).
-    - Nisan occured just before the Exodus from Egypt, **when "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."** (Exodus 9:31)
-    - the barley is in the ear, and the flax is bolled near Jerusalem **between 08.March – 05.April** ([relevant study proving that](https://jbqnew.jewishbible.org/jbq-past-issues/2017/453/modern-searches-aviv-barley-context-hebrew-calendar/?utm_source=chatgpt.com))
+2. **14 days from the New moon between 8 March – 5 April**
+    - Crucifixion was on a **Passover** (*John 19:14*)
+    - The Passover is commanded to occur on **the 14th day of the first month at even** (*Leviticus 23:5*)
+    - The first biblical month (Nisan/Abib) is lunar and begins with the **new moon** (*Exodus 12:2, Psalm 81:3*).
+    - Nisan occured just before the Exodus from Egypt, when "*And the flax and the barley was smitten: for **the barley was in the ear**, and **the flax was bolled**.*" (*Exodus 9:31*)
+    - the barley is in the ear, and the flax is bolled near Jerusalem **between 08.March – 05.April** (*[Modern Searches for Aviv Barley in the Context of the Hebrew Calendar](https://jbqnew.jewishbible.org/jbq-past-issues/2017/453/modern-searches-aviv-barley-context-hebrew-calendar/?utm_source=chatgpt.com)*)
 
 3. **If no new moon** appears in that range, count **14 days from the next new moon** (i.e. intercalated month)
-    - If barley was not ripe, a 13th month (Adar II) was added. This was required to align the Passover with the firstfruits harvest (Leviticus 23:10-14).
+    - If barley was not ripe, a 13th month (Adar II) was added. This was required to align the Passover with the firstfruits harvest (*Leviticus 23:10-14*).
 
-4. AD 26–36
-    - Jesus was crucified during <b style="color:darkgreen;">Pontius Pilate</b> (<i style="color:lightblue;">Matthew 27:2, Mark 15:15 and many others</i>)
-    - Pontius Pilate was Roman governor of Judea **from AD 26 to 36** (<i>[Pontius Pilate Wikipedia](https://en.wikipedia.org/wiki/Pontius_Pilate#:~:text=Pontius%20Pilate%20%28Latin%3A%20Pontius%20Pilatus%2Cand%20ultimately%20ordered%20his%20crucifixion.)</i>)
+4. **AD 26–36**
+    - Jesus was crucified during **Pontius Pilate** (*Matthew 27:2, Mark 15:15 and many others*)
+    - Pontius Pilate was Roman governor of Judea **from AD 26 to 36** (*[Pontius Pilate Wikipedia](https://en.wikipedia.org/wiki/Pontius_Pilate#:~:text=Pontius%20Pilate%20%28Latin%3A%20Pontius%20Pilatus%2Cand%20ultimately%20ordered%20his%20crucifixion.)*)
 
 
 
-Search Execution and Results
+Search Execution and Result
 ----------------
-### Execution:
-Run python script **cru_years_astro_new_moon.py** to performs the search conditions: check the weekday on the Passovers from 26 to 36 AD, looking for the Wednesday Passover
+### Execution
+Python script **cru_years_astro_new_moon.py** to performs the search conditions: check the weekday on the Passovers from 26 to 36 AD, looking for the Wednesday Passover
 
-### Results: 
-Nisan & Passover Dates from AD 26–36:
+### Result
 
 | Year AD | Added 13th Month? | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
 |---------|--------------------|------------------------|--------------------------|---------------------|
