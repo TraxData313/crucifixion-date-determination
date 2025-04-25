@@ -27,7 +27,7 @@ Search Conditions
 Search Execution and Result
 ----------------
 ### Execution
-Python script **cru_years_astro_new_moon.py** to performs the search conditions: check the weekday on the Passovers from 26 to 36 AD, looking for the Wednesday Passover
+Python script *cru_years_astro_new_moon.py* performs the search conditions: **checks the Passover weekdays from 26 to 36 AD**
 
 ### Result
 
