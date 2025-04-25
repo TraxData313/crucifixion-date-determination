@@ -3,7 +3,7 @@ Dating the Crucifixion to Wednesday Passover in 34 AD
 
 This project biblically and astronomically pinpoints the year of Jesus Christ’s crucifixion to the Full Mooned Wednesday Passover in 34 AD (0034-03-22)
 
-📜 Search Conditions
+Search Conditions
 -----------------------
 
 1. Wednesday, because [the Crucifixion Was on a Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)
@@ -25,11 +25,12 @@ This project biblically and astronomically pinpoints the year of Jesus Christ’
    - We search for a full moon (Passover) that fell on a Wednesday within this range.
 
 
-🛠 Search Execution Script
+Search Execution and Results
 ----------------
-The script cru_years_astro_new_moon.py performs the search by the set conditions - checks the weekday on the Passovers from 26 to 36 AD, looking for the Wednesday Passover
+### Execution:
+Run python script **cru_years_astro_new_moon.py** to performs the search conditions: check the weekday on the Passovers from 26 to 36 AD, looking for the Wednesday Passover
 
-### Script Execution Output: 
+### Results: 
 Nisan & Passover Dates from AD 26–36:
 
 | Year AD | Added 13th Month? | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
