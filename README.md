@@ -26,10 +26,7 @@ Search Conditions
 
 Search Execution and Result
 ----------------
-### Execution
-Python script *cru_years_astro_new_moon.py* performs the search conditions: **checks the Passover weekdays from 26 to 36 AD**
-
-### Result
+Python script *cru_years_astro_new_moon.py* performs the search conditions: **checks the Passover weekdays from 26 to 36 AD** with the following result:
 
 | Year AD | Added 13th Month? | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
 |---------|--------------------|------------------------|--------------------------|---------------------|
