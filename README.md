@@ -59,7 +59,7 @@ Further Confirmations
 
 Conclusion
 -------------
-Based on the biblical calendar, barley ripening data, and astronomical new moon calculations, the only year from AD 26–36 in which Passover (14 Nisan) fell on a Wednesday, matching the Gospel chronology and scriptural requirements, is **AD 34**.
+Given the search criteria, it looks reasonable to say that **Jesus Christ was most likely crucified on the Wednesday Passover in AD 34**.
 
 
 License
