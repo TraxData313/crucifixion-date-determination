@@ -13,7 +13,7 @@ Search Conditions
     - The Passover is commanded to occur on **the 14th day of the first month at even** (Leviticus 23:5)
     - The first biblical month (Nisan/Abib) is lunar and begins with the **new moon** (Exodus 12:2, Psalm 81:3).
     - Nisan occured just before the Exodus from Egypt, **when "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."** (Exodus 9:31)
-    - the barley is in the ear, and the flax is bolled" near Jerusalem **between 08.March – 05.April** ([relevant study proving that](https://jbqnew.jewishbible.org/jbq-past-issues/2017/453/modern-searches-aviv-barley-context-hebrew-calendar/?utm_source=chatgpt.com))
+    - the barley is in the ear, and the flax is bolled near Jerusalem **between 08.March – 05.April** ([relevant study proving that](https://jbqnew.jewishbible.org/jbq-past-issues/2017/453/modern-searches-aviv-barley-context-hebrew-calendar/?utm_source=chatgpt.com))
 
 3. **If no new moon** appears in that range, count **14 days from the next new moon** (i.e. intercalated month)
     - If barley was not ripe, a 13th month (Adar II) was added. This was required to align the Passover with the firstfruits harvest (Leviticus 23:10-14).
