@@ -51,17 +51,17 @@ Nisan & Passover Dates from AD 26–36:
 
 
 
-📚 Further Confirmations
+Further Confirmations
 ------------------------
 - Passover in 34 AD on a Wednesday is also confirmed by these historical-astronomical data from peer-reviewed research [The date of Nisan 14 in Jerusalem AD 26–36](https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769), even though they were looking for a Friday
 - The simpler, but less accurate script cru_years_astr_full_moon.py also confirms the Full Moon was on a Wednesday in 34 AD, and the Passover is on a Full Moon (Full Moon is ~14 days from the New Moon), further confirming that the Moon was fully lid that day
 
 
-🙌 Conclusion
+Conclusion
 -------------
 Based on the biblical calendar, barley ripening data, and astronomical new moon calculations, the only year from AD 26–36 in which Passover (14 Nisan) fell on a Wednesday, matching the Gospel chronology and scriptural requirements, is **AD 34**.
 
 
-📖 License
+License
 -------------
 All content in this repository is completely free to use, share, and cite — no license or permission required.
