@@ -1,6 +1,10 @@
 
 # Why the Crucifixion Was on Wednesday
 
+![image](https://raw.githubusercontent.com/TraxData313/crucifixion-date-determination/refs/heads/main/crucifixion_timeline.png)
+Snipet from Tomorrow's World video on this topic - [YouTube 7 min VIDEO "Timeline Explaining 3 Days & Nights - Easter / Passover"](https://www.youtube.com/watch?v=EmtyYqq11Qc)
+
+
 ## 🌅 THE PROBLEM: "Three Days and Three Nights"
 
 ### 🔑 KEY VERSE:  
