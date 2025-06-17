@@ -25,20 +25,19 @@ Date Pinpointing Execution and Result
 ----------------
 So we have to check **which of the Passovers between 26 to 36 AD fell on a Wednesday**. Python script [cru_years_astro_new_moon.py](https://github.com/TraxData313/crucifixion-date-determination/blob/main/cru_years_astro_new_moon.py) performs exactly that check, using NASA’s [JPL DE astronomical model](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/) via the high-precision astronomy Python library [Skyfield](https://github.com/skyfielders/python-skyfield?utm_source=chatgpt.com), and here are the results:
 
-| Year AD | Added 13th Month? | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
-|---------|--------------------|------------------------|--------------------------|---------------------|
-| 26      | No                 | 0026-04-04    | 0026-04-18      | Saturday            |
-| 27      | No                 | 0027-03-25    | 0027-04-08      | Thursday            |
-| 28      | No                 | 0028-03-13    | 0028-03-27      | Monday              |
-| 29      | No                 | 0029-04-01    | 0029-04-15      | Sunday              |
-| 30      | No                 | 0030-03-21    | 0030-04-04      | Thursday            |
-| 31      | No                 | 0031-03-10    | 0031-03-24      | Monday              |
-| 32      | No                 | 0032-03-28    | 0032-04-11      | Sunday              |
-| 33      | No                 | 0033-03-18    | 0033-04-01      | Friday              |
-| 34      | No                 | 0034-03-08    | 0034-03-22      | Wednesday ✅        |
-| 35      | No                 | 0035-03-26    | 0035-04-09      | Monday              |
-| 36      | No                 | 0036-03-15    | 0036-03-29      | Saturday            |
-
+| Year AD | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
+|---------|------------------------|--------------------------|---------------------|
+| 26      | 0026-04-04             | 0026-04-18               | Saturday            |
+| 27      | 0027-03-25             | 0027-04-08               | Thursday            |
+| 28      | 0028-03-13             | 0028-03-27               | Monday              |
+| 29      | 0029-04-01             | 0029-04-15               | Sunday              |
+| 30      | 0030-03-21             | 0030-04-04               | Thursday            |
+| 31      | 0031-03-10             | 0031-03-24               | Monday              |
+| 32      | 0032-03-28             | 0032-04-11               | Sunday              |
+| 33      | 0033-03-18             | 0033-04-01               | Friday              |
+| 34      | 0034-03-08             | 0034-03-22               | Wednesday ✅         |
+| 35      | 0035-03-26             | 0035-04-09               | Monday              |
+| 36      | 0036-03-15             | 0036-03-29               | Saturday            |
 ---
 
 
