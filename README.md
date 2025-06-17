@@ -3,24 +3,25 @@ Dating the Crucifixion to Wednesday Passover in 34 AD
 
 This project biblically and astronomically pinpoints the date of Jesus Christ’s crucifixion to the Wednesday Passover in 34 AD (0034-03-22)
 
-Date Search Conditions
+What are we searching for
 -----------------------
+1. The Crucifixion happened between **26 and 36 AD**
+    - Jesus was crucified during **Pontius Pilate** (*Matthew 27:2, Mark 15:15 and many others*)
+    - Pontius Pilate was Roman governor of Judea **from AD 26 to 36** (*[Pontius Pilate Wikipedia](https://en.wikipedia.org/wiki/Pontius_Pilate#:~:text=Pontius%20Pilate%20%28Latin%3A%20Pontius%20Pilatus%2Cand%20ultimately%20ordered%20his%20crucifixion.)*)
 
-1. **Wednesday** (*[the Crucifixion Was on a Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)*)
+2. The Crucifixion was on a **Wednesday** (*[here is why](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)*)
 
-2. **14 days from the New moon between 8 March – 5 April**
-    - Crucifixion was on a **Passover** (*John 19:14*)
+3. The Crucifixion was on a **Passover** which is **14 days from the New moon between 8 March – 5 April**
+    - That it was on a **Passover** we see in Bible verses like *John 19:14 "And it was the preparation of the passover..."*
     - The Passover is commanded to occur on **the 14th day of the first month at even** (*Leviticus 23:5*)
     - The first biblical month (Nisan/Abib) is lunar and begins with the **new moon** (*Exodus 12:2, Psalm 81:3*).
     - Nisan occured just before the Exodus from Egypt, when "*And the flax and the barley was smitten: for **the barley was in the ear**, and **the flax was bolled**.*" (*Exodus 9:31*)
     - the barley is in the ear, and the flax is bolled near Jerusalem **between 08.March – 05.April** (*[Modern Searches for Aviv Barley in the Context of the Hebrew Calendar](https://jbqnew.jewishbible.org/jbq-past-issues/2017/453/modern-searches-aviv-barley-context-hebrew-calendar/?utm_source=chatgpt.com)*)
 
-3. **If no new moon** appears in that range, count **14 days from the next new moon** (i.e. intercalated month)
+4. **If no new moon** appears in that range, count **14 days from the next new moon** (i.e. intercalated month)
     - If barley was not ripe, a 13th month (Adar II) was added. This was required to align the Passover with the firstfruits harvest (*Leviticus 23:10-14*).
 
-4. **AD 26–36**
-    - Jesus was crucified during **Pontius Pilate** (*Matthew 27:2, Mark 15:15 and many others*)
-    - Pontius Pilate was Roman governor of Judea **from AD 26 to 36** (*[Pontius Pilate Wikipedia](https://en.wikipedia.org/wiki/Pontius_Pilate#:~:text=Pontius%20Pilate%20%28Latin%3A%20Pontius%20Pilatus%2Cand%20ultimately%20ordered%20his%20crucifixion.)*)
+
 
 
 
