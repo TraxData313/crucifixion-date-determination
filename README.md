@@ -38,8 +38,8 @@ So we have to check **which of the Passovers between 26 and 36 AD fell on a Wedn
 | 34      | 0034-03-08             | 0034-03-22               | Wednesday ✅         |
 | 35      | 0035-03-26             | 0035-04-09               | Monday              |
 | 36      | 0036-03-15             | 0036-03-29               | Saturday            |
-*Note: No leap months (Adar II) were needed in these years. The script automatically checks for a suitable new moon after March 8, just as ancient observers would have done to align Passover with the spring harvest.*
 ---
+*Note: No leap months (Adar II) were needed in these years. The script automatically checks for a suitable new moon after March 8, just as ancient observers would have done to align Passover with the spring harvest.*
 
 
 
