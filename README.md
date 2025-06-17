@@ -4,7 +4,7 @@ Dating the Crucifixion to Wednesday Passover in 34 AD
 This project biblically and astronomically pinpoints the date of Jesus Christ’s crucifixion to the Wednesday Passover in 34 AD (0034-03-22)
 
 
-Pinpointing Conditions
+Date Pinpointing Conditions
 -----------------------
 1. The Crucifixion happened between **26 and 36 AD**
     - Jesus was crucified during **Pontius Pilate** (*Matthew 27:2, Mark 15:15 and many others*)
@@ -21,9 +21,9 @@ Pinpointing Conditions
 3. The Crucifixion was on a **Wednesday** (*[here is why](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)*)
 
 
-Pinpointing Execution and Result
+Date Pinpointing Execution and Result
 ----------------
-So we have to check **which of the Passovers between 26 to 36 AD fell on a Wednesday**. Python script [*cru_years_astro_new_moon.py*](https://github.com/TraxData313/crucifixion-date-determination/blob/main/cru_years_astro_new_moon.py) performs exactly that check, using NASA’s [JPL DE astronomical model](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/) via the high-precision astronomy Python library [Skyfield](https://github.com/skyfielders/python-skyfield?utm_source=chatgpt.com), and here are the results:
+So we have to check **which of the Passovers between 26 to 36 AD fell on a Wednesday**. Python script [cru_years_astro_new_moon.py](https://github.com/TraxData313/crucifixion-date-determination/blob/main/cru_years_astro_new_moon.py) performs exactly that check, using NASA’s [JPL DE astronomical model](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/) via the high-precision astronomy Python library [Skyfield](https://github.com/skyfielders/python-skyfield?utm_source=chatgpt.com), and here are the results:
 
 | Year AD | Added 13th Month? | 1 Nisan (New Moon)     | 14 Nisan (Passover)     | Weekday (Passover) |
 |---------|--------------------|------------------------|--------------------------|---------------------|
