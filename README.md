@@ -10,7 +10,7 @@ Date Pinpointing Conditions
     - Jesus was crucified during **Pontius Pilate** (*Matthew 27:2, Mark 15:15 and many others*)
     - Pontius Pilate was Roman governor of Judea **from AD 26 to 36** (*[Pontius Pilate Wikipedia](https://en.wikipedia.org/wiki/Pontius_Pilate#:~:text=Pontius%20Pilate%20%28Latin%3A%20Pontius%20Pilatus%2Cand%20ultimately%20ordered%20his%20crucifixion.)*)
 
-2. The Crucifixion was on a **Passover** which is **14 days from the New moon between 8 March – 5 April**
+2. The Crucifixion was on a **Passover** which is determined by strict astronomical conditions - **14 days from the New moon between 8 March – 5 April**
     - On a **Passover** because direct Bible verses like "*And it was the preparation of the passover...*" (*John 19:14*)
     - The Passover is commanded to occur on **the 14th day of the first month at even** (*Leviticus 23:5*)
     - The first biblical month (Nisan/Abib) is lunar and begins with the **new moon** (*Exodus 12:2, Psalm 81:3*).
