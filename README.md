@@ -3,7 +3,7 @@ Dating the Crucifixion to Wednesday Passover in 34 AD
 
 This project biblically and astronomically pinpoints the date of Jesus Christ’s crucifixion to the Wednesday Passover in 34 AD (0034-03-22)
 
-Search Conditions
+Date Search Conditions
 -----------------------
 
 1. **Wednesday** (*[the Crucifixion Was on a Wednesday](https://github.com/TraxData313/crucifixion-date-determination/blob/main/why_crucifiction_was_on_wednesday.md)*)
