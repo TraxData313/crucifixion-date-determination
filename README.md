@@ -44,13 +44,15 @@ So we have to check **which of the Passovers between 26 and 36 AD fell on a Wedn
 
 Further Confirmations
 ------------------------
-- Passover in 34 AD on a Wednesday is also confirmed by these historical-astronomical data from peer-reviewed research [The date of Nisan 14 in Jerusalem AD 26–36](https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769), even though they were looking for a Friday
+- Passover in 34 AD on a Wednesday is also confirmed by these historical-astronomical data from peer-reviewed research [The date of Nisan 14 in Jerusalem AD 26–36](https://www.researchgate.net/figure/The-date-of-Nisan-14-in-Jerusalem-AD-26-36_tbl1_265114769) (The table is in Jilian dates; Julian 24.Mar.34 = Gregorian 22.Mar.34, but we are talking about the same dates)
 - The simpler, but less accurate script cru_years_astr_full_moon.py also confirms the Full Moon was on a Wednesday in 34 AD, and the Passover is on a Full Moon (Full Moon is ~14 days from the New Moon), further confirming that the Moon was fully lit that day
+- Isaac Newton's calculations also confirm that **Passover in AD 34 fell on a Wednesday**. As he writes "*in the year 34, on **wednesday** March 24*" in his work  [Observations upon the Prophecies of Daniel, and the Apocalypse of St. John](https://dn790005.ca.archive.org/0/items/observationsupon16878gut/16878-8.txt) (Julian 24.Mar.34 = Gregorian 22.Mar.34).
+- [Julian Day Converter](https://calendarhome.com/calculate/convert-a-date) confirms that Gregorian 22.Mar.34 fell on Wednesday
 
 
 Conclusion
 -------------
-Given the search criteria, it looks reasonable to say that **Jesus Christ was most likely crucified on the Wednesday Passover in AD 34**.
+Jesus Christ was most likely crucified exactly on the Wednesday Passover in AD 34
 
 
 License
