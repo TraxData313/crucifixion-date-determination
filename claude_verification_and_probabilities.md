@@ -150,7 +150,26 @@ Sensitivity of this distribution:
 - Treating the equinox rule as strictly applied (as later rabbinic sources
   describe): AD 34 rises to ~85%+.
 
-## 6. Bottom line
+## 6. Probabilities, assuming the crucifixion was on a Friday
+
+For completeness — the same two-factor weighing applied to the traditional
+Friday hypothesis (the one dominant in published scholarship):
+
+| Candidate (Gregorian) | Probability | Requires |
+|---|---|---|
+| **Friday, 1 April AD 33** | **~65–70%** | AD 33 not intercalated — an easy assumption: its Passover falls ~11 days after the equinox (~85%) × chronology fits standard Tiberius counting well (baptism ~29, Passovers 30/31/32/33) (~1.0) |
+| **Friday, 5 April AD 30** | **~30%** | Astronomically the most robust date in the whole range — Friday in all 9 scenario combinations, no intercalation dependence. But under *Luke 3:1* + three Passovers it requires counting Tiberius' 15th year from his co-regency (AD 11/12) — a minority position (~0.35–0.45) |
+| Friday, 9 April AD 27 | ~1–2% | the crescent seen a day late (only under the strictest visibility criterion) × chronology conflicts with *Luke 3:1* (~0.05) |
+
+Note the symmetry with §5: under the Friday hypothesis the choice between
+AD 33 and AD 30 is decided not by astronomy (which is rock-solid for both)
+but by the *chronology* factor — the mirror image of the Wednesday
+hypothesis, where chronology clearly favors AD 34 and the uncertainty is
+*calendrical* (intercalation). The ~2:1 lean toward AD 33 matches where the
+modern literature has moved (Humphreys & Waddington argue precisely for
+3 April AD 33 Julian).
+
+## 7. Bottom line
 
 The astronomy is now settled to the day and cross-validated against Newton
 (1733) and Humphreys & Waddington (1983). What it cannot settle is one human

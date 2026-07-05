@@ -54,9 +54,11 @@ Results under the main scenario (equinox rule — 14 Nisan on/after the vernal e
 **Only AD 34 gives a Wednesday Passover under the main scenario.**
 
 
-How certain is this? (Probabilities)
+How certain is this? (Probabilities, assuming a Wednesday crucifixion)
 ------------------------
-The astronomy above is settled to the day (see verification below). The one open input is a human decision: **did the Sanhedrin add a 13th month (Adar II) in a given year?** Assuming the crucifixion was on a Wednesday, weighing each candidate by (a) the probability of the calendar decision it requires and (b) its fit with the Luke 3:1 / three-Passovers chronology:
+**The probabilities below are conditional on the crucifixion having been on a Wednesday** — the hypothesis this repository focuses on (*[here is why](why_crucifiction_was_on_wednesday.md)*). The traditional Friday hypothesis already has extensive published research behind it (its candidates, AD 30 and AD 33, and how they fare under this same model — including their own probability breakdown — are covered in [claude_verification_and_probabilities.md](claude_verification_and_probabilities.md) §4 and §6).
+
+The astronomy above is settled to the day (see verification below). The one open input is a human decision: **did the Sanhedrin add a 13th month (Adar II) in a given year?** Weighing each Wednesday candidate by (a) the probability of the calendar decision it requires and (b) its fit with the Luke 3:1 / three-Passovers chronology:
 
 | Candidate date (Gregorian) | Probability | Requires |
 |---|---|---|
